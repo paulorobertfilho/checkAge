@@ -1,0 +1,8 @@
+{
+  "name": "checkAge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/paulorobertfilho/checkAge.git",
+  "author": "paulorobertfilho <paulorobert.filho@gmail.com>",
+  "license": "MIT"
+}
